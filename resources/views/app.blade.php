@@ -9,7 +9,7 @@
     @inertiaHead
 </head>
 <body>
-<section class="p-8">
+<section class="">
     @inertia
 </section>
 </body>
